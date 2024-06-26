@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshil Tandel</h1>
 <h3 align="center">"Code, Creativity, and Collaboration: Life as a Frontend Developer"</h3>
-<img align=”right” alt=”Coding” width=”400” src=”[https://encrypted-tbn0.gstatic.com/images?q](https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237)”>
+<img align=”right” alt=”Coding” width=”400” src=”https://i.postimg.cc/MG2dFy5T/giphy.webp”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshiltandel&label=Profile%20views&color=0e75b6&style=flat" alt="harshiltandel" /> </p>
 
