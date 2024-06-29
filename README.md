@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshiltandel07" target="blank"><img src="https://img.shields.io/twitter/follow/harshiltandel07?logo=twitter&style=for-the-badge" alt="harshiltandel07" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce-Shoes**
+- 🔭 I’m currently working on **MERN-STACK**
 
 - 🌱 I’m currently learning **React and DSA**
 
