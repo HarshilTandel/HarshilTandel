@@ -1,0 +1,28 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+
+jobs:
+  update-readme:
+    name: Update WakaTime Readme
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: athul/waka-readme@v1.0.2
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          API_BASE_URL: https://wakatime.com/api  # Optional
+          SHOW_TITLE: true  # Optional
+          SECTION_NAME: waka  # Optional
+          LANG_COUNT: 10  # Optional
+          SHOW_TIME: true  # Optional
+          SHOW_TOTAL: true  # Optional
+          IGNORE_LANGUAGES: "YAML, JSON, TOML"  # Optional
+          COMMIT_MESSAGE: Update WakaTime stats  # Optional
+          TARGET_BRANCH: main  # Optional
+          TARGET_PATH: README.md  # Optional
