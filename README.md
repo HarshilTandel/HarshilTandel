@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshil Tandel</h1>
 <h3 align="center">"Code, Creativity, and Collaboration: Life as a Frontend Developer"</h3>
-<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/MG2dFy5T/giphy.webp"> 
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHR0cGV2czZzZGtjNXM3MHpiamNyNGtvOThqbG90bWw1aTRuZmwyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshiltandel&label=Profile%20views&color=0e75b6&style=flat" alt="harshiltandel" /> </p>
 <p align="left"> <a href="https://twitter.com/harshiltandel07" target="blank"><img src="https://img.shields.io/twitter/follow/harshiltandel07?logo=twitter&style=for-the-badge" alt="harshiltandel07" /></a> </p>
