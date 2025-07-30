@@ -18,6 +18,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HarshilTandel&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
