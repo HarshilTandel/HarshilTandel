@@ -19,6 +19,34 @@
 ![](https://github-profile-trophy.vercel.app/?username=HarshilTandel&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 42.4 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               9 repos             ████████████████░░░░░░░░░   64.29 % 
+HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+CSS                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/HarshilTandel/HarshilTandel/main/assets/bar_graph.png)
+
+
+ Last Updated on 30/07/2025 18:52:49 UTC
 <!--END_SECTION:waka-->
 
 
