@@ -28,8 +28,6 @@
 
 > 📦 42.5 kB Used in GitHub's Storage 
  > 
-> 🏆 90 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -94,7 +92,7 @@ CSS                      2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HarshilTandel/HarshilTandel/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2025 18:49:35 UTC
+ Last Updated on 09/08/2025 18:48:02 UTC
 <!--END_SECTION:waka-->
 
 
