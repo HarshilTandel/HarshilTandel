@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHR0cGV2czZzZGtjNXM3MHpiamNyNGtvOThqbG90bWw1aTRuZmwyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 
 
-# 💫 About Me:
+# 💫 About Me :
 🔭 I’m a full-stack developer specializing in the MERN-stack<br>🌱 I’m currently leveling up my React chops and crushing DSA challenges<br>📫 Reach me at ✉️ harshil.tndll@gmail.com<br> 🌐 Check out my live projects on my [Portfolio](https://harshil-tandel.netlify.app/)<br><br>💬 Ask Me About<br><br> 🚀 Architecting & deploying MERN apps  <br> ⚛️ Optimizing React with hooks & context  <br>🧠 Strategies for tackling tough DSA problems  <br><br>🎉 Fun Fact<br>I once built a mini-game in 48 hours—and ended up 🕹️ playing against myself just to test every edge case!  <br>
 
 
