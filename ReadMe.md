@@ -22,13 +22,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 42.5 kB Used in GitHub's Storage 
- > 
-> 🏆 91 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,7 +88,7 @@ CSS                      2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HarshilTandel/HarshilTandel/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2025 18:46:29 UTC
+ Last Updated on 20/08/2025 18:48:03 UTC
 <!--END_SECTION:waka-->
 
 
